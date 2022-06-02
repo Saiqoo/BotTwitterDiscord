@@ -1,0 +1,5 @@
+/.env
+/ajzt/twitterkey
+/venv/
+/.idea/
+__pycache__/

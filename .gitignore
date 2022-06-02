@@ -1,5 +1,5 @@
-/.env
-/ajzt/twitterkey
+/auth.env
+/ajzt/auth_twitter
 /venv/
 /.idea/
 __pycache__/
